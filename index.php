@@ -25,6 +25,12 @@ if (empty($_SESSION['name'])) {
     </head>
 
     <body>
+        
+        <!--You can add the following logout link anywhere in your site
+
+        <a href='logout.php'>Logout<a>
+
+        -->
  
     </body>
 </html>
